@@ -223,6 +223,11 @@
     padding: 1%;
 }
 
+.copyright p{
+    font-size: 15px;
+    color: white;
+}
+
 .btn{
    display: block;
    margin-left: auto;
