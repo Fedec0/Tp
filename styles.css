@@ -207,11 +207,13 @@
 .footer{
     margin-top: 5%;
     margin-bottom: 2%;
+    background-color: rgb(42, 69, 80);
 }
 .footer p{
    margin-left: 2%;
-   color: rgb(127, 152, 161);
 }
+
+
 
 .socials {
     margin-left: 48%;
