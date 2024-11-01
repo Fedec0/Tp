@@ -216,6 +216,7 @@
 
 .copyright{
     background-color: rgb(42, 69, 80);
+    padding: 1%;
 
 }
 
@@ -225,7 +226,7 @@
 }
 
 .copyright p{
-    font-size: 15px;
+    font-size: px;
     color: white;
 }
 
