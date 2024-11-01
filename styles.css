@@ -209,6 +209,7 @@
 }
 
 .footer {
+    margin-top: 6%;
     background-color: cadetblue;
 }
 
@@ -219,7 +220,7 @@
 }
 
 .socials {
-    margin-left: 47%;
+    margin-left: 45%;
     padding: 2%;
 }
 
