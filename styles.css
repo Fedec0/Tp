@@ -207,18 +207,20 @@
 .footer{
     margin-top: 5%;
     margin-bottom: 2%;
-    background-color: rgb(42, 69, 80);
+    background-color: cadetblue;
 }
 .footer p{
    margin-left: 2%;
 }
 
-
-
 .socials {
     margin-left: 48%;
 }
 
+.copyright {
+    background-color: rgb(42, 69, 80);
+    padding: 1%;
+}
 
 .btn{
    display: block;
