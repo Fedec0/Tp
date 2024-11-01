@@ -272,3 +272,30 @@
     font-size: 35px;
 }
 
+.cardproducts{
+    width: 75%;
+    height: 90%;
+    background-color: rgb(42, 69, 80);
+    border-radius: 8px;
+    margin-top: 10%;
+    padding: 2%;
+    margin-left: 41%;
+    margin-top: 20%;
+}
+
+.cardproducts img{
+    margin-bottom: 2%;
+}
+
+.card-price {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
+
+.btn {
+    padding-right: 40%;
+    padding-left: 40%;
+}
+
