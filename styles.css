@@ -204,23 +204,24 @@
  text-align: center;
 }
 
-.footer{
-    margin-top: 5%;
-    margin-bottom: 2%;
-    background-color: cadetblue;
-}
+
 .footer p{
    margin-left: 2%;
    padding: 2%;
 }
 
-.socials {
-    margin-left: 48%;
+.footer {
+    background-color: cadetblue;
 }
 
-.copyright {
+.copyright{
     background-color: rgb(42, 69, 80);
     padding: 1%;
+}
+
+.socials {
+    margin-left: 47%;
+    padding: 2%;
 }
 
 .copyright p{
