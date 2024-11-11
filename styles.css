@@ -238,10 +238,10 @@
 }
 
 .guidestext{
-    margin-left: 1%;
-    margin-right: 1%;
-    margin-top: 5%;
+    text-align: center;
+    margin-top: 6%;
     font-size: 22px;
+    font-weight: bold;
 }
 
 .card4{
