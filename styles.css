@@ -252,6 +252,16 @@
     margin-bottom: 2%;
 }
 
+.card-title4{
+    text-align: center;
+    color: rgb(37, 36, 36);
+}
+
+.card-text4{
+    text-align: center;
+    color: rgb(37, 36, 36);
+}
+
 .ds {
     margin-left: 1%;
     margin-right: 1%;
