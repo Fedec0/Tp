@@ -237,21 +237,19 @@
    
 }
 
-.guidestext{
-    margin-left: 1%;
-    margin-right: 1%;
-    margin-top: 5%;
-    font-size: 22px;
+.card4{
+    width: 70%;
+    height: 90%;
+    background-color: cadetblue;
+    border-radius: 8px;
+    margin-top: 10%;
+    padding: 2%;
+    margin-left: 41%;
+
 }
 
-.basics{
-    margin-left: 1%;
-    margin-right: 1%;
-}
-
-.basics li{
-    font-size: 19px;
-    margin-bottom: 1%;
+.card4 img{
+    margin-bottom: 2%;
 }
 
 .ds {
