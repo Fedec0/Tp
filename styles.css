@@ -262,6 +262,16 @@
     color: rgb(37, 36, 36);
 }
 
+.basics{
+    padding-bottom: 2.5%;
+    text-align: center; 
+    background-color: cadetblue;
+    padding-top: 2.5%;
+    color: white;
+    margin-top: 4%;
+    margin-bottom: 3%;
+}
+
 .ds {
     margin-left: 1%;
     margin-right: 1%;
